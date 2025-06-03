@@ -1,17 +1,17 @@
-## Session: Sind Communities die neuen Arbeitskreise/Gremien
+# Sind Communities die neuen Arbeitskreise/Gremien
 
-Host: Céline & Hazem
+**Host:** Céline & Hazem
 
-### Was wurde beobachtet, erzählt oder geteilt?
+## Was wurde beobachtet, erzählt oder geteilt?
 
 * Céline stellt DNA Peers von AWO vor: Themenvielfalt in der Community.  
 * Im Barcamp wurden Themen gesammelt, die bearbeitet werden sollen – als Miniprojekte statt Arbeitskreise.
 
-### Zitate oder prägnante Aussagen
+## Zitate oder prägnante Aussagen
 
-* „Wenn du nicht mehr weiter weißt, gründe keinen Arbeitskreis.“
+* „Wenn du nicht mehr weiter weißt, gründe keinen Arbeitskreis."
 
-### Welche zentralen Erkenntnisse oder Thesen wurden deutlich?
+## Welche zentralen Erkenntnisse oder Thesen wurden deutlich?
 
 * Community → Arbeitskreis  
 * praktisch  
@@ -19,11 +19,13 @@ Host: Céline & Hazem
 * unverbindlich  
 * etc.
 
-### Wie können wir...
+## Wie können wir...
 
 * Wie können Arbeitsweise und Communities voneinander lernen?
 
-Community
+## Vergleich Community vs. Arbeitskreis
+
+**Community**
 
 * Freiwilligkeit  
 * Offen für alle  
@@ -35,7 +37,7 @@ Community
 * Fluide Dynamik  
 * Bedarfsorientierung
 
-Arbeitskreis
+**Arbeitskreis**
 
 * Pflichtorientierung  
 * Mandat notwendig  
