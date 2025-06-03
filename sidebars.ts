@@ -14,7 +14,7 @@ import type {SidebarsConfig} from '@docusaurus/plugin-content-docs';
  */
 const sidebars: SidebarsConfig = {
   tutorialSidebar: [
-    'overview',
+    'ueberblick',
     {
       type: 'category',
       label: 'Sessions',
