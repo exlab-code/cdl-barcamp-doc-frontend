@@ -1,4 +1,4 @@
-# **Zusammenfassung: Pixel Session 2 - ESG-Datennutzung in Sozialorganisationen**
+# ESG-Datennutzung in Sozialorganisationen**
 
 
 ## **Kontext und Zielsetzung**

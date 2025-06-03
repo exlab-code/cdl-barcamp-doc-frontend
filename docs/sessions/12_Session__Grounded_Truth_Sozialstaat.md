@@ -1,4 +1,4 @@
-# Zusammenfassung - Pixel Session 1: Ground Truth für Sozialleistungen
+# Ground Truth für Sozialleistungen
 
 ## **Session-Kontext**
 - **Dauer:** ~60 Minuten 
