@@ -1,4 +1,3 @@
-```markdown
 # Zusammenfassung - Pixel Session 1: Ground Truth für Sozialleistungen
 
 ## **Session-Kontext**
