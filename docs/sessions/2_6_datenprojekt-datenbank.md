@@ -73,7 +73,7 @@
 ### Daten sammeln & pflegen
 
 * Wie geht das automatisiert statt händisch/redaktionell?  
-* <-> was braucht es strukturell, um die Daten verfügbar zu machen?  
+* ↔ was braucht es strukturell, um die Daten verfügbar zu machen?  
 * gemeinsames CMS "Webfamilie" mit Daten, die unterschiedlich ausgespielt werden  
 * Interviews per Custom GPT (AWO)  
 * PowerBI mit Connectors ans Web  
