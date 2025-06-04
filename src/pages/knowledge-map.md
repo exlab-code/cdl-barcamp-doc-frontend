@@ -20,4 +20,4 @@ Schau bald wieder vorbei für die interaktive Visualisierung!
 
 ## Aktuelle Sessions
 
-In der Zwischenzeit kannst du alle dokumentierten Sessions im Bereich [Sessions](/docs/overview) durchsuchen.
+In der Zwischenzeit kannst du alle dokumentierten Sessions im Bereich [Sessions](/docs/ueberblick) durchsuchen.

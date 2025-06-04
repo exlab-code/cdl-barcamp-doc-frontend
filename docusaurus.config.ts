@@ -96,7 +96,7 @@ const config: Config = {
           items: [
             {
               label: 'Sessions',
-              to: '/docs/overview',
+              to: '/docs/ueberblick',
             },
             {
               label: 'Wissenskarte',
