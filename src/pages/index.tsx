@@ -37,7 +37,7 @@ export default function Home(): ReactNode {
       description="Dokumentation der Civic Data Lab Barcamp Sessions">
       <HomepageHeader />
       <main>
-        <HomepageFeatures />
+        {/* <HomepageFeatures /> */}
       </main>
     </Layout>
   );
