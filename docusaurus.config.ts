@@ -64,6 +64,11 @@ const config: Config = {
     ],
   ],
 
+  plugins: [
+    '@gracefullight/docusaurus-plugin-tailwind',
+  ],
+
+
   themeConfig: {
     // Replace with your project's social card
     image: 'img/docusaurus-social-card.jpg',
