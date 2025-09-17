@@ -1,4 +1,4 @@
-# KI protokolliert: Interne Daten Governance in Sozialorganisationen
+# Interne Daten Governance in Sozialorganisationen (KI protokolliert)
 
 ### **Ausgangssituation und Problemstellung**
 
