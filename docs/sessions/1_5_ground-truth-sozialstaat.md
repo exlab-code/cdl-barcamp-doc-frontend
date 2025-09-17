@@ -1,4 +1,4 @@
-# Ground Truth Sozialstaat
+# KI generiert: Ground Truth Sozialstaat
 
 **Host:** Ben & Benjamin, Förderfunke
 
