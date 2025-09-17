@@ -1,4 +1,4 @@
-# KI protokolliert: Nachhaltigkeitsdaten & CSRD
+# Nachhaltigkeitsdaten & CSRD ((KI protokolliert))
 
 **Host:** AWO Digital & Caritas, Lorenz & Peter
 
